@@ -54,6 +54,13 @@
 	"width": 200,
 	"height": 199,
 	"sectors":false
+	},
+	"8": {
+	"name": "res.png",
+	"x": -3107,
+	"y": -4207,
+	"width": 207,
+	"height": 248,
+	"sectors":false
 	}
-
 }
