@@ -1,7 +1,7 @@
 {	
 
 	"арт млпп 1": {
-	"name": "Concert.png",
+	"name": "Concert_top.png",
 	"x": 236,
 	"y": -23,
 	"width": 189,
@@ -32,6 +32,13 @@
 	"height": 204,
 	"sectors":false
 	} 
-
+ 	 "арт млпп 5": {
+	"name": "fs_&_rd_sleeping_top",
+	"x": -82,
+	"y": -165,
+	"width": 49,
+	"height": 43,
+	"sectors":false
+	} 
   
 }
