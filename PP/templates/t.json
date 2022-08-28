@@ -2,18 +2,18 @@
 
 	"арт млпп 1": {
 	"name": "Concert_top.png",
-	"x": 236,
-	"y": -23,
-	"width": 189,
-	"height": 56,
+	"x": 235,
+	"y": -24,
+	"width": 191,
+	"height": 57,
 	"sectors":false
 	},
  	"арт млпп 2": {
 	"name": "Derpy_top.png",
-	"x": 166,
-	"y": 438,
-	"width": 111,
-	"height": 60,
+	"x": 165,
+	"y": 437,
+	"width": 113,
+	"height": 61,
 	"sectors":false
 	}, 
   	"арт млпп 3": {
@@ -34,18 +34,18 @@
 	}, 
  	 "арт млпп 5": {
 	"name": "fs_&_rd_sleeping_top.png",
-	"x": -81,
-	"y": -164,
-	"width": 49,
-	"height": 43,
+	"x": -82,
+	"y": -165,
+	"width": 51,
+	"height": 45,
 	"sectors":false
 	}, 
    	 "арт млпп 6": {
 	"name": "twi_sleeping_top.png",
-	"x": 163,
-	"y": 181,
-	"width": 44,
-	"height": 20,
+	"x": 162,
+	"y": 180,
+	"width": 46,
+	"height": 21,
 	"sectors":false
 	},
 	 "арт млпп 7": {
