@@ -39,6 +39,21 @@
 	"width": 49,
 	"height": 43,
 	"sectors":false
+	}, 
+   	 "арт млпп 6": {
+	"name": "twi_sleeping_top.png",
+	"x": 163,
+	"y": 181,
+	"width": 44,
+	"height": 20,
+	"sectors":false
+	},
+	 "арт млпп 7": {
+	"name": "cats_top.png",
+	"x": -95,
+	"y": 479,
+	"width": 158,
+	"height": 43,
+	"sectors":false
 	} 
-  
 }
