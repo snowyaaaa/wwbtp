@@ -10,10 +10,10 @@
 	},
  	"арт млпп 2": {
 	"name": "Derpy_top.png",
-	"x": 162,
-	"y": 434,
-	"width": 119,
-	"height": 68,
+	"x": 166,
+	"y": 438,
+	"width": 111,
+	"height": 60,
 	"sectors":false
 	}, 
   	"арт млпп 3": {
@@ -51,7 +51,7 @@
 	 "арт млпп 7": {
 	"name": "cats_top.png",
 	"x": -195,
-	"y": 470,
+	"y": 469,
 	"width": 158,
 	"height": 43,
 	"sectors":false
