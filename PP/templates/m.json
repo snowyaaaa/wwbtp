@@ -22,6 +22,14 @@
 	"width": 1920,
 	"height": 1680,
 	"sectors":false
+	},
+ 	"имперка 1": {
+	"name": "empirem.png",
+	"x": 6340,
+	"y": 4252,
+	"width": 854,
+	"height": 533,
+	"sectors":false		
 	}
 
 }
