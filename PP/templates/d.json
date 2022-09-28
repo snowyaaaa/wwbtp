@@ -49,8 +49,8 @@
     },
     "7": {
         "name": "gf.png",
-        "x": -2749,
-        "y": 2264,
+        "x": -2750,
+        "y": 2263,
         "width": 200,
         "height": 199,
         "sectors": false
@@ -63,20 +63,12 @@
         "height": 217,
         "sectors": false
     },
-    "9": {
-        "name": "ml.png",
-        "x": 9189,
-        "y": -13214,
-        "width": 512,
-        "height": 192,
-        "sectors": false
-    },
     "SpawnDerpy": {
         "name": "dr.png",
-        "x": -18,
-        "y": -291,
-        "width": 51,
-        "height": 51,
+        "x": -16,
+        "y": -290,
+        "width": 50,
+        "height": 47,
         "sectors": false
     },
     "CatLand": {
@@ -101,6 +93,14 @@
         "y": -14978,
         "width": 228,
         "height": 680,
+        "sectors": false
+    },
+    "Twilight_epmireppf_d": {
+        "name": "Twilight_empireppf_d.png",
+        "x": 9448,
+        "y": -13017,
+        "width": 49,
+        "height": 35,
         "sectors": false
     }
 }
