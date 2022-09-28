@@ -56,6 +56,14 @@
         "sectors": false
     },
     "8": {
+        "name": "bff.png",
+        "x": -2535,
+        "y": 2123,
+        "width": 135,
+        "height": 342,
+        "sectors": false
+    },
+    "9": {
         "name": "res.png",
         "x": -3107,
         "y": -4207,
