@@ -102,13 +102,5 @@
         "width": 49,
         "height": 35,
         "sectors": false
-    },
-        "download_1": {
-        "name": "download_1.png",
-        "x": 32495,
-        "y": -32363,
-        "width": 34,
-        "height": 53,
-        "sectors": false
     }
 }
