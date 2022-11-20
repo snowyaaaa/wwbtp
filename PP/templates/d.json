@@ -65,10 +65,10 @@
     },
     "SpawnDerpy": {
         "name": "dr.png",
-        "x": -16,
-        "y": -290,
-        "width": 50,
-        "height": 47,
+        "x": -15,
+        "y": -289,
+        "width": 49,
+        "height": 46,
         "sectors": false
     },
     "CatLand": {
