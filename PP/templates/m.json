@@ -30,6 +30,14 @@
         "width": 804,
         "height": 488,
         "sectors": false
-    }
+    },
+    "кот 1": {
+        "name": "HEYTINV.png",
+        "x": -8192,
+        "y": -8192,
+        "width": 225,
+        "height": 143,
+        "sectors": false
+    }    
 
 }
