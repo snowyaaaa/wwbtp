@@ -30,6 +30,14 @@
         "width": 225,
         "height": 143,
         "sectors": false
-    }    
+    },
+    "Саратов": {
+        "name": "Saratov.png",
+        "x": 6559,
+        "y": 5281,
+        "width": 786,
+        "height": 476,
+        "sectors": false
+    }  
 
 }
