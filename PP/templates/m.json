@@ -23,14 +23,6 @@
         "height": 1680,
         "sectors": false
     },
-    "имперка 1": {
-        "name": "empirem.png",
-        "x": 6368,
-        "y": 4292,
-        "width": 804,
-        "height": 488,
-        "sectors": false
-    },
     "кот 1": {
         "name": "HEYTINV.png",
         "x": -8192,
