@@ -87,12 +87,12 @@
         "height": 680,
         "sectors": false
     },
-    "Twilight": {
-        "name": "Twilight.png",
-        "x": 9448,
+    "PieTwi_d": {
+        "name": "PieTwi_d.png",
+        "x": 9356,
         "y": -13017,
-        "width": 49,
-        "height": 45,
+        "width": 161,
+        "height": 177,
         "sectors": false
     }
 }
