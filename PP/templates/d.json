@@ -94,5 +94,13 @@
         "width": 161,
         "height": 177,
         "sectors": false
+    },
+    "RD_d": {
+        "name": "RD_d.png",
+        "x": 7258,
+        "y": -12850,
+        "width": 83,
+        "height": 79,
+        "sectors": false
     }
 }
