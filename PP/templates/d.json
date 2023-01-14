@@ -102,5 +102,13 @@
         "width": 83,
         "height": 79,
         "sectors": false
+    },
+        "catland_d": {
+        "name": "catland_d.png",
+        "x": 8614,
+        "y": -8588,
+        "width": 104,
+        "height": 58,
+        "sectors": false
     }
 }
