@@ -38,6 +38,13 @@
         "width": 786,
         "height": 476,
         "sectors": false
+    },
+    "Ставрополь": {
+        "name": "Stavropole.png",
+        "x": 6382,
+        "y": 5746,
+        "width": 276,
+        "height": 134,
+        "sectors": false
     }  
-
 }
