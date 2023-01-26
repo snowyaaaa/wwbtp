@@ -110,5 +110,13 @@
         "width": 91,
         "height": 50,
         "sectors": false
+    },
+    "NA_d": {
+        "name": "NA_d.png",
+        "x": -22150,
+        "y": -20655,
+        "width": 253,
+        "height": 209,
+        "sectors": false
     }
 }
