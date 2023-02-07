@@ -1,1 +1,39 @@
+{
+  "Sector_1": { 
+    "name": "Sector_1.png", 
+    "x": -4096, 
+    "y": -4096, 
+    "width": 4096, 
+    "height": 4096,
+    "sectors": false
+  },
+  
+   "Sector_2": { 
+    "name": "Sector_2.png", 
+    "x": -4096, 
+    "y": -4096, 
+    "width": 4096, 
+    "height": 4096,
+    "sectors": false
+  },
+  
+   "Sector_3": { 
+    "name": "Sector_3.png", 
+    "x": -4096, 
+    "y": -4096, 
+    "width": 4096, 
+    "height": 4096,
+    "sectors": false
+  },
+  
+   "Sector_4": { 
+    "name": "Sector_4.png", 
+    "x": -4096, 
+    "y": -4096, 
+    "width": 4096, 
+    "height": 4096,
+    "sectors": false
+  },
+
+}
 
