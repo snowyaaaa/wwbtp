@@ -74,7 +74,7 @@
     "SpawnDerpy": {
         "name": "dr.png",
         "x": -15,
-        "y": -289,
+        "y": -280,
         "width": 49,
         "height": 46,
         "sectors": false
@@ -125,6 +125,22 @@
         "y": -20655,
         "width": 253,
         "height": 209,
+        "sectors": false
+    },
+    "Luna_Korea": {
+        "name": "Luna_Korea_d.png",
+        "x": 23041,
+        "y": -8644,
+        "width": 37,
+        "height": 34,
+        "sectors": false
+    },
+    "Void_ponyo": {
+        "name": "Void_ponyo_d.png",
+        "x": 17219,
+        "y": -11289,
+        "width": 214,
+        "height": 278,
         "sectors": false
     }
 }
