@@ -65,10 +65,10 @@
     },
     "9": {
         "name": "res.png",
-        "x": -3108,
-        "y": -4208,
-        "width": 196,
-        "height": 219,
+        "x": -3002,
+        "y": -4074,
+        "width": 162,
+        "height": 196,
         "sectors": false
     },
     "SpawnDerpy": {
