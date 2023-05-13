@@ -142,5 +142,237 @@
         "width": 214,
         "height": 278,
         "sectors": false
+    },
+    "fluttershy_top_left_corner":{
+        "name": "fluttershy_top_left_corner.png",
+        "x": -31899,
+        "y": -32577,
+        "width": 71,
+        "height": 76,
+        "sectors": false
+    },
+    "ponies_area_top":{
+        "name": "ponies_area_top.png",
+        "x": -10708,
+        "y": -31912,
+        "width": 261,
+        "height": 131,
+        "sectors": false
+    },
+    "rd_top_area":{
+        "name": "rd_top_area.png",
+        "x": -23586,
+        "y": -31819,
+        "width": 88,
+        "height": 56,
+        "sectors": false
+    },
+    "fs_top_right":{
+        "name": "fs_top_right.png",
+        "x": 21195,
+        "y": -30487,
+        "width": 155,
+        "height": 136,
+        "sectors": false
+    },
+    "chrys_top_greenland":{
+        "name": "chrys_top_greenland.png",
+        "x": -9117,
+        "y": -29448,
+        "width": 45,
+        "height": 64,
+        "sectors": false
+    },
+    "ts_ocean":{
+        "name": "ts_ocean.png",
+        "x": 22169,
+        "y": -26435,
+        "width": 54,
+        "height": 53,
+        "sectors": false
+    },
+    "ponies_area_greenland_west":{
+        "name": "ponies_area_greenland_west.png",
+        "x": -13107,
+        "y": -25228,
+        "width": 125,
+        "height": 88,
+        "sectors": false
+    },
+    "celly_above_canda":{
+        "name": "celly_above_canada.png",
+        "x": -19566,
+        "y": -21525,
+        "width": 84,
+        "height": 103,
+        "sectors": false
+    },
+    "ponies_area_russia_NE":{
+        "name": "ponies_area_russia_NE.png",
+        "x": 14762,
+        "y": -19665,
+        "width": 243,
+        "height": 78,
+        "sectors": false
+    },
+    "fs_canada_north":{
+        "name": "fs_canada_north.png",
+        "x": -22632,
+        "y": -18308,
+        "width": 49,
+        "height": 48,
+        "sectors": false
+    },
+    "fs_russia_center":{
+        "name": "fs_russia_center.png",
+        "x": 24592,
+        "y": -17310,
+        "width": 32,
+        "height": 30,
+        "sectors": false
+    },
+    "dr_russia_center":{
+        "name": "dr_russia_center.png",
+        "x": 18408,
+        "y": -17242,
+        "width": 51,
+        "height": 47,
+        "sectors": false
+    },
+    "ponies_area_russia_shore":{
+        "name": "ponies_area_russia_shore.png",
+        "x": 13578,
+        "y": -17312,
+        "width": 167,
+        "height": 121,
+        "sectors": false
+    },
+    "sunny_russia_NE":{
+        "name": "sunny_russia_NE.png",
+        "x": 7316,
+        "y": -16817,
+        "width": 15,
+        "height": 25,
+        "sectors": false
+    },
+    "pon3_canada_N":{
+        "name": "pon3_canada_N.png",
+        "x": -21872,
+        "y": -17256,
+        "width": 46,
+        "height": 56,
+        "sectors": false
+    },
+    "ts_NW_canada":{
+        "name": "ts_NW_canada.png",
+        "x": -14186,
+        "y": -16365,
+        "width": 56,
+        "height": 58,
+        "sectors": false
+    },
+    "sleeping_ponies_canada":{
+        "name": "sleeping_ponies_canada.png",
+        "x": -18689,
+        "y": -15364,
+        "width": 138,
+        "height": 96,
+        "sectors": false
+    },
+    "sleeping_rd_russia":{
+        "name": "sleeping_rd_russia.png",
+        "x": 10415,
+        "y": -14284,
+        "width": 90,
+        "height": 53,
+        "sectors": false
+    },
+    "sleeping_rd_russia_2":{
+        "name": "sleeping_rd_russia_2.png",
+        "x": 7009,
+        "y": -14230,
+        "width": 51,
+        "height": 80,
+        "sectors": false
+    },
+    "pp_russia":{
+        "name": "pp_russia.png",
+        "x": 5959,
+        "y": -14285,
+        "width": 51,
+        "height": 80,
+        "sectors": false
+    },
+    "ponies_area_alaska":{
+        "name": "ponies_area_alaska.png",
+        "x": -28553,
+        "y": -14189,
+        "width": 217,
+        "height": 218,
+        "sectors": false
+    },
+    "alicorns_russia":{
+        "name": "alicorns_russia.png",
+        "x": 9048,
+        "y": -14114,
+        "width": 945,
+        "height": 341,
+        "sectors": false
+    },
+    "rd_kazakhstan":{
+        "name": "rd_kazakhstan.png",
+        "x": 13333,
+        "y": -11837,
+        "width": 38,
+        "height": 49,
+        "sectors": false
+    },
+    "dr_ukraine":{
+        "name": "dr_ukraine.png",
+        "x": 9291,
+        "y": -11963,
+        "width": 49,
+        "height": 46,
+        "sectors": false
+    },
+    "trixie_russia":{
+        "name": "trixie_russia.png",
+        "x": 6270,
+        "y": -11845,
+        "width": 28,
+        "height": 30,
+        "sectors": false
+    },
+    "rds_irkutsk":{
+        "name": "rds_irkutsk.png",
+        "x": 18659,
+        "y": -11480,
+        "width": 72,
+        "height": 103,
+        "sectors": false
+    },
+    "sleeping_rd_russia_3":{
+        "name": "sleeping_rd_russia_3.png",
+        "x": 6559,
+        "y": -10375,
+        "width": 38,
+        "height": 53,
+        "sectors": false
+    },
+    "sleeping_luna_china":{
+        "name": "sleeping_luna_china.png",
+        "x": 24283,
+        "y": -10025,
+        "width": 48,
+        "height": 61,
+        "sectors": false
+    },
+    "ponies_area_vladivostok":{
+        "name": "ponies_area_vladivostok.png",
+        "x": 24977,
+        "y": -9902,
+        "width": 92,
+        "height": 56,
+        "sectors": false
     }
 }
