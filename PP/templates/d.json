@@ -89,10 +89,10 @@
     },
     "North_ponies": {
         "name": "north_d.png",
-        "x": 860,
-        "y": -14978,
-        "width": 364,
-        "height": 680,
+        "x": 869,
+        "y": -14935,
+        "width": 351,
+        "height": 628,
         "sectors": false
     },
     "PieTwi_d": {
@@ -108,7 +108,7 @@
         "x": 7258,
         "y": -12850,
         "width": 83,
-        "height": 79,
+        "height": 80,
         "sectors": false
     },
     "catland_d": {
@@ -209,10 +209,10 @@
     },
     "ponies_area_russia_NE":{
         "name": "ponies_area_russia_NE.png",
-        "x": 14762,
-        "y": -19665,
-        "width": 243,
-        "height": 78,
+        "x": 14764,
+        "y": -19663,
+        "width": 239,
+        "height": 74,
         "sectors": false
     },
     "fs_canada_north":{
@@ -345,10 +345,10 @@
     },
     "rds_irkutsk":{
         "name": "rds_irkutsk.png",
-        "x": 18659,
+        "x": 18617,
         "y": -11480,
-        "width": 72,
-        "height": 103,
+        "width": 69,
+        "height": 107,
         "sectors": false
     },
     "sleeping_rd_russia_3":{
