@@ -27,9 +27,9 @@
  	 "арт млпп 4": {
 	"name": "foe_top.png",
 	"x": 617,
-	"y": -1000,
-	"width": 383,
-	"height": 204,
+	"y": -1024,
+	"width": 767,
+	"height": 640,
 	"sectors":false
 	}, 
  	 "арт млпп 5": {
