@@ -54,5 +54,13 @@
         "width": 144,
         "height": 224,
         "sectors": false
+    },
+    "moon_im5": {
+        "name": "moon_im5.png",
+        "x": -870,
+        "y": 4769,
+        "width": 198,
+        "height": 198,
+        "sectors": false
     }
 }
