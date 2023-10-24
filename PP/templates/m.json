@@ -18,9 +18,9 @@
     "арт млпп 2": {
         "name": "catm.png",
         "x": 6152,
-        "y": 6512,
+        "y": 5949,
         "width": 1920,
-        "height": 1680,
+        "height": 2243,
         "sectors": false
     },
     "кот 1": {
@@ -61,6 +61,14 @@
         "y": -2730,
         "width": 198,
         "height": 198,
+        "sectors": false
+    },
+    "neon": {
+        "name": "neon.png",
+        "x": 259,
+        "y": -3291,
+        "width": 252,
+        "height": 452,
         "sectors": false
     }
 }
