@@ -48,14 +48,6 @@
         "sectors": false
     },
     "7": {
-        "name": "S_4-8.png",
-        "x": -16384,
-        "y": 0,
-        "width": 4096,
-        "height": 4096,
-        "sectors": false
-    },
-    "8": {
         "name": "bffgf.png",
         "x": -2749,
         "y": 2125,
@@ -63,7 +55,7 @@
         "height": 338,
         "sectors": false
     },
-    "9": {
+    "8": {
         "name": "res.png",
         "x": -3002,
         "y": -4074,
@@ -137,8 +129,8 @@
     },
     "Void_ponyo": {
         "name": "Void_ponyo_d.png",
-        "x": 17219,
-        "y": -11289,
+        "x": -27608,
+        "y": -29254,
         "width": 214,
         "height": 278,
         "sectors": false
