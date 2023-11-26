@@ -19,9 +19,9 @@
  	 "арт млпп 4": {
 	"name": "ponies_top.png",
 	"x": 617,
-	"y": -1024,
-	"width": 767,
-	"height": 640,
+	"y": -1147,
+	"width": 768,
+	"height": 763,
 	"sectors":false
 	}, 
  	 "арт млпп 5": {
@@ -39,5 +39,21 @@
 	"width": 158,
 	"height": 43,
 	"sectors":false
-	} 
+	}, 
+	"oc": {
+   "name": "oc.png",
+   "x": 279,
+   "y": -700,
+   "width": 54,
+   "height": 64,
+   "sectors":false
+   }, 
+   "pollofrito": {
+  "name": "pollofrito.png",
+  "x": 100,
+  "y": -427,
+  "width": 40,
+  "height": 47,
+  "sectors":false
+  }
 }
