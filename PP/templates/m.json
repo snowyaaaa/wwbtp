@@ -17,9 +17,9 @@
     },
     "арт млпп 2": {
         "name": "catm.png",
-        "x": 6152,
+        "x": 6122,
         "y": 5949,
-        "width": 1920,
+        "width": 1950,
         "height": 2243,
         "sectors": false
     },
@@ -69,6 +69,14 @@
         "y": -1450,
         "width": 252,
         "height": 452,
+        "sectors": false
+    },
+    "fox": {
+        "name": "fox.png",
+        "x": 5121,
+        "y": 4897,
+        "width": 124,
+        "height": 124,
         "sectors": false
     }
 }
