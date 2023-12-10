@@ -55,5 +55,13 @@
   "width": 40,
   "height": 47,
   "sectors":false
+  },
+  "starlight": {
+	 "name": "starlight.png",
+	 "x": -732,
+	 "y": 710,
+	 "width": 150,
+	 "height": 198,
+	 "sectors": false
   }
 }
