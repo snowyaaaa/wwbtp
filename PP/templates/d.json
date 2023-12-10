@@ -116,7 +116,7 @@
         "x": 8614,
         "y": -8596,
         "width": 103,
-        "height": 58,
+        "height": 59,
         "sectors": false
     },
     "NA_d": {
@@ -299,8 +299,8 @@
         "name": "pp_russia.png",
         "x": 5959,
         "y": -14285,
-        "width": 51,
-        "height": 80,
+        "width": 24,
+        "height": 22,
         "sectors": false
     },
     "ponies_area_alaska":{
