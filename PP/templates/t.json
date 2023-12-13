@@ -20,7 +20,7 @@
 	"name": "ponies_top.png",
 	"x": 617,
 	"y": -1342,
-	"width": 850,
+	"width": 1170,
 	"height": 1025,
 	"sectors":false
 	}, 
@@ -62,6 +62,14 @@
 	 "y": 710,
 	 "width": 150,
 	 "height": 198,
+	 "sectors": false
+  },
+  "sonata": {
+	 "name": "sonata.png",
+	 "x": -997,
+	 "y": -226,
+	 "width": 134,
+	 "height": 118,
 	 "sectors": false
   }
 }

@@ -17,10 +17,26 @@
     },
     "арт млпп 2": {
         "name": "catm.png",
+        "x": 6152,
+        "y": 6512,
+        "width": 1920,
+        "height": 1680,
+        "sectors": false
+    },
+    "moon_ponies": {
+        "name": "moon_ponies.png",
         "x": 6122,
-        "y": 5949,
-        "width": 1950,
-        "height": 2243,
+        "y": 5281,
+        "width": 1469,
+        "height": 1230,
+        "sectors": false
+    },
+    "moon_images": {
+        "name": "moon_images.png",
+        "x": 4318,
+        "y": 4779,
+        "width": 1525,
+        "height": 964,
         "sectors": false
     },
     "кот 1": {
@@ -29,22 +45,6 @@
         "y": -8192,
         "width": 255,
         "height": 180,
-        "sectors": false
-    },
-    "Саратов": {
-        "name": "Saratov.png",
-        "x": 6559,
-        "y": 5281,
-        "width": 786,
-        "height": 476,
-        "sectors": false
-    },
-    "Ставрополь": {
-        "name": "Stavropole.png",
-        "x": 6382,
-        "y": 5746,
-        "width": 276,
-        "height": 134,
         "sectors": false
     },
     "Дерево": {
@@ -69,14 +69,6 @@
         "y": -1450,
         "width": 252,
         "height": 452,
-        "sectors": false
-    },
-    "fox": {
-        "name": "fox.png",
-        "x": 5121,
-        "y": 4897,
-        "width": 124,
-        "height": 124,
         "sectors": false
     }
 }
