@@ -31,7 +31,14 @@
         "width": 503,
         "height": 686,
         "sectors": false
+    },
+    "арт Саратова 1": {
+        "name": "Gorshok.png",
+        "x": -1645,
+        "y": -70,
+        "width": 481,
+        "height": 478,
+        "sectors": false
     }
-
 
 }
