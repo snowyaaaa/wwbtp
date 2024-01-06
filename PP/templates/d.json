@@ -374,5 +374,13 @@
         "width": 92,
         "height": 56,
         "sectors": false
+    },
+    "Saratov":{
+        "name": "Saratov.png",
+        "x": 7740,
+        "y": -11861,
+        "width": 1512,
+        "height": 1004,
+        "sectors": false
     }
 }
