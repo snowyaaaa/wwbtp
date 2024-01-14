@@ -377,10 +377,10 @@
     },
     "Saratov":{
         "name": "Saratov.png",
-        "x": 7740,
-        "y": -11861,
-        "width": 1512,
-        "height": 1004,
+        "x": 7730,
+        "y": -11889,
+        "width": 1535,
+        "height": 1065,
         "sectors": false
     }
 }
