@@ -7,12 +7,12 @@
         "height": 206,
         "sectors": false
     },
-    "RD":{
-        "name": "rd.png",
+    "2bit_ponies":{
+        "name": "2bit_ponies.png",
         "x": 164,
         "y": 948,
-        "width": 326,
-        "height": 246,
+        "width": 803,
+        "height": 423,
         "sectors": false
     }
 }
