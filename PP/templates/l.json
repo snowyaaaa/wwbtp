@@ -10,6 +10,14 @@
     "2bit_ponies":{
         "name": "2bit_ponies.png",
         "x": 166,
+        "y": 830,
+        "width": 803,
+        "height": 960,
+        "sectors": false
+    },
+    "equestriatale":{
+        "name": "ET.png",
+        "x": 166,
         "y": 950,
         "width": 803,
         "height": 423,
