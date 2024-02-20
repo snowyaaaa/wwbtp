@@ -17,10 +17,10 @@
     },
     "equestriatale":{
         "name": "ET.png",
-        "x": 166,
-        "y": 950,
-        "width": 803,
-        "height": 423,
+        "x": -5631,
+        "y": -8191,
+        "width": 3541,
+        "height": 260,
         "sectors": false
     }
 }
