@@ -385,9 +385,9 @@
     },
     "pinki center":{
         "name": "pinkCentr.png",
-        "x": 167,
+        "x": 166,
         "y": -161,
-        "width": 37,
+        "width": 38,
         "height": 43,
         "sectors": false
     }
