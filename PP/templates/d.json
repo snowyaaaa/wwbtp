@@ -382,5 +382,13 @@
         "width": 1535,
         "height": 1065,
         "sectors": false
+    },
+    "pinki center":{
+        "name": "pinkCentr",
+        "x": 167,
+        "y": -161,
+        "width": 37,
+        "height": 43,
+        "sectors": false
     }
 }
