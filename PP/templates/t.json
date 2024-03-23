@@ -71,5 +71,13 @@
 	 "width": 134,
 	 "height": 118,
 	 "sectors": false
+  },
+  "Luna": {
+	 "name": "luna_t.png",
+	 "x": 654,
+	 "y": -199,
+	 "width": 264,
+	 "height": 305,
+	 "sectors": false
   }
 }
