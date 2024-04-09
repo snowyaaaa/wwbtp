@@ -55,14 +55,6 @@
         "height": 4096,
         "sectors": false
     },
-    "8": {
-        "name": "bffgf.png",
-        "x": -2749,
-        "y": 2125,
-        "width": 348,
-        "height": 338,
-        "sectors": false
-    },
     "9": {
         "name": "res.png",
         "x": -3002,
@@ -289,10 +281,10 @@
     },
     "sleeping_rd_russia_2":{
         "name": "sleeping_rd_russia_2.png",
-        "x": 7009,
-        "y": -14230,
-        "width": 51,
-        "height": 80,
+        "x": 7007,
+        "y": -14231,
+        "width": 54,
+        "height": 76,
         "sectors": false
     },
     "pp_russia":{

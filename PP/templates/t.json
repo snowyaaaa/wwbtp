@@ -1,83 +1,82 @@
-{	
-
+{
 	"арт млпп 1": {
-	"name": "Concert_top.png",
-	"x": 235,
-	"y": -24,
-	"width": 191,
-	"height": 57,
-	"sectors":false
+		"name": "Concert_top.png",
+		"x": 235,
+		"y": -36,
+		"width": 233,
+		"height": 69,
+		"sectors": false
 	},
- 	"арт млпп 2": {
-	"name": "Derpy_top.png",
-	"x": 165,
-	"y": 437,
-	"width": 231,
-	"height": 61,
-	"sectors":false
+	"арт млпп 2": {
+		"name": "Derpy_top.png",
+		"x": 165,
+		"y": 437,
+		"width": 231,
+		"height": 61,
+		"sectors": false
 	},
- 	 "арт млпп 4": {
-	"name": "ponies_top.png",
-	"x": 617,
-	"y": -1342,
-	"width": 1089,
-	"height": 1025,
-	"sectors":false
-	}, 
- 	 "арт млпп 5": {
-	"name": "fs_&_rd_sleeping_top.png",
-	"x": -82,
-	"y": -165,
-	"width": 51,
-	"height": 45,
-	"sectors":false
-	}, 
-	 "арт млпп 6": {
-	"name": "cats_top.png",
-	"x": -195,
-	"y": 469,
-	"width": 158,
-	"height": 43,
-	"sectors":false
-	}, 
+	"арт млпп 4": {
+		"name": "ponies_top.png",
+		"x": 617,
+		"y": -1342,
+		"width": 1089,
+		"height": 1025,
+		"sectors": false
+	},
+	"арт млпп 5": {
+		"name": "fs_&_rd_sleeping_top.png",
+		"x": -82,
+		"y": -165,
+		"width": 51,
+		"height": 45,
+		"sectors": false
+	},
+	"арт млпп 6": {
+		"name": "cats_top.png",
+		"x": -195,
+		"y": 469,
+		"width": 158,
+		"height": 43,
+		"sectors": false
+	},
 	"oc": {
-   "name": "oc.png",
-   "x": 279,
-   "y": -700,
-   "width": 54,
-   "height": 64,
-   "sectors":false
-   }, 
-   "pollofrito": {
-  "name": "pollofrito.png",
-  "x": 100,
-  "y": -427,
-  "width": 40,
-  "height": 47,
-  "sectors":false
-  },
-  "starlight": {
-	 "name": "starlight.png",
-	 "x": -732,
-	 "y": 710,
-	 "width": 150,
-	 "height": 198,
-	 "sectors": false
-  },
-  "sonata": {
-	 "name": "sonata.png",
-	 "x": -997,
-	 "y": -226,
-	 "width": 134,
-	 "height": 118,
-	 "sectors": false
-  },
-  "Luna": {
-	 "name": "luna_t.png",
-	 "x": 654,
-	 "y": -199,
-	 "width": 264,
-	 "height": 305,
-	 "sectors": false
-  }
+		"name": "oc.png",
+		"x": 279,
+		"y": -700,
+		"width": 54,
+		"height": 64,
+		"sectors": false
+	},
+	"pollofrito": {
+		"name": "pollofrito.png",
+		"x": 100,
+		"y": -427,
+		"width": 40,
+		"height": 47,
+		"sectors": false
+	},
+	"starlight": {
+		"name": "starlight.png",
+		"x": -732,
+		"y": 710,
+		"width": 150,
+		"height": 198,
+		"sectors": false
+	},
+	"sonata": {
+		"name": "sonata.png",
+		"x": -997,
+		"y": -226,
+		"width": 134,
+		"height": 118,
+		"sectors": false
+	},
+	"Luna": {
+		"name": "luna_t.png",
+		"x": 654,
+		"y": -199,
+		"width": 264,
+		"height": 305,
+		"sectors": false
+	}
 }
