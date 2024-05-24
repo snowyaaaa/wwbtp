@@ -25,10 +25,10 @@
     },
     "moon_ponies": {
         "name": "moon_ponies.png",
-        "x": 6122,
-        "y": 5282,
-        "width": 1867,
-        "height": 1230,
+        "x": 6152,
+        "y": 5178,
+        "width": 1962,
+        "height": 1334,
         "sectors": false
     },
     "moon_images": {
