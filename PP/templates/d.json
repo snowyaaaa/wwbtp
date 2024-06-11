@@ -105,10 +105,10 @@
     },
     "catland_d": {
         "name": "catland_d.png",
-        "x": 8614,
-        "y": -8596,
-        "width": 103,
-        "height": 59,
+        "x": 8590,
+        "y": -8640,
+        "width": 153,
+        "height": 103,
         "sectors": false
     },
     "NA_d": {
@@ -199,14 +199,6 @@
         "height": 103,
         "sectors": false
     },
-    "ponies_area_russia_NE":{
-        "name": "ponies_area_russia_NE.png",
-        "x": 14764,
-        "y": -19663,
-        "width": 239,
-        "height": 74,
-        "sectors": false
-    },
     "fs_canada_north":{
         "name": "fs_canada_north.png",
         "x": -22632,
@@ -234,9 +226,9 @@
     "ponies_area_russia_shore":{
         "name": "ponies_area_russia_shore.png",
         "x": 13578,
-        "y": -17312,
+        "y": -17480,
         "width": 167,
-        "height": 121,
+        "height": 289,
         "sectors": false
     },
     "sunny_russia_NE":{
@@ -369,10 +361,10 @@
     },
     "Saratov":{
         "name": "Saratov.png",
-        "x": 7730,
-        "y": -11889,
-        "width": 1535,
-        "height": 1065,
+        "x": 7738,
+        "y": -11863,
+        "width": 1514,
+        "height": 1006,
         "sectors": false
     },
     "pinki center":{
