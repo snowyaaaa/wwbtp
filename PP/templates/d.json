@@ -361,10 +361,10 @@
     },
     "Saratov":{
         "name": "Saratov.png",
-        "x": 7738,
-        "y": -11863,
-        "width": 1514,
-        "height": 1006,
+        "x": 7730,
+        "y": -11889,
+        "width": 1535,
+        "height": 1065,
         "sectors": false
     },
     "pinki center":{
