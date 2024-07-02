@@ -374,5 +374,13 @@
         "width": 38,
         "height": 43,
         "sectors": false
+    },
+    "italy":{
+        "name": "italy.png",
+        "x": 1186,
+        "y": -10115,
+        "width": 2189,
+        "height": 2726,
+        "sectors": false
     }
 }
