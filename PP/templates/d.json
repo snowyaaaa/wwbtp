@@ -103,6 +103,14 @@
         "height": 80,
         "sectors": false
     },
+    "Marusya_d": {
+        "name": "Marusya_d.png",
+        "x": 6653,
+        "y": -12995,
+        "width": 106,
+        "height": 100,
+        "sectors": false
+    },
     "catland_d": {
         "name": "catland_d.png",
         "x": 8590,
