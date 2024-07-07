@@ -111,6 +111,14 @@
         "height": 100,
         "sectors": false
     },
+    "Stavpony_d": {
+        "name": "Stavpony_d.png",
+        "x": 7697,
+        "y": -9380,
+        "width": 91,
+        "height": 70,
+        "sectors": false
+    },
     "catland_d": {
         "name": "catland_d.png",
         "x": 8590,
