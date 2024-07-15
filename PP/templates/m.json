@@ -15,28 +15,12 @@
         "height": 330,
         "sectors": false
     },
-    "арт млпп 2": {
-        "name": "catm.png",
-        "x": 6152,
-        "y": 6512,
-        "width": 1920,
-        "height": 1680,
-        "sectors": false
-    },
-    "moon_ponies": {
-        "name": "moon_ponies.png",
-        "x": 6122,
-        "y": 5178,
-        "width": 1992,
-        "height": 1334,
-        "sectors": false
-    },
-    "moon_images": {
-        "name": "moon_images.png",
-        "x": 4318,
-        "y": 4607,
-        "width": 1771,
-        "height": 1137,
+    "moon_ponehs": {
+        "name": "moon_ponehs.png",
+        "x": 4096,
+        "y": 4096,
+        "width": 4096,
+        "height": 4096,
         "sectors": false
     },
     "кот 1": {
