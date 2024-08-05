@@ -78,5 +78,14 @@
 		"width": 264,
 		"height": 305,
 		"sectors": false
+	},
+	"Japan_ponyo": {
+		"name": "Japan_ponyo.png",
+		"x": 1153,
+		"y": -1374,
+		"width": 135,
+		"height": 142,
+		"sectors": false
 	}
+	
 }
