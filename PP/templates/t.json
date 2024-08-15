@@ -18,9 +18,9 @@
 	"арт млпп 4": {
 		"name": "ponies_top.png",
 		"x": 617,
-		"y": -1342,
+		"y": -1374,
 		"width": 1089,
-		"height": 1025,
+		"height": 1057,
 		"sectors": false
 	},
 	"арт млпп 5": {
@@ -78,14 +78,5 @@
 		"width": 264,
 		"height": 305,
 		"sectors": false
-	},
-	"Japan_ponyo": {
-		"name": "Japan_ponyo.png",
-		"x": 1153,
-		"y": -1374,
-		"width": 135,
-		"height": 142,
-		"sectors": false
 	}
-	
 }
