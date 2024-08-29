@@ -121,10 +121,10 @@
     },
     "catland_d": {
         "name": "catland_d.png",
-        "x": 8590,
+        "x": 8608,
         "y": -8640,
-        "width": 153,
-        "height": 103,
+        "width": 142,
+        "height": 109,
         "sectors": false
     },
     "NA_d": {
