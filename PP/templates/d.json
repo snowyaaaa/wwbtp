@@ -393,10 +393,10 @@
     },
     "italy":{
         "name": "italy.png",
-        "x": 2349,
-        "y": -8987,
-        "width": 1003,
-        "height": 1253,
+        "x": 2484,
+        "y": -8764,
+        "width": 868,
+        "height": 1030,
         "sectors": false
     }
 }
