@@ -398,5 +398,13 @@
         "width": 1294,
         "height": 1521,
         "sectors": false
+    },
+    "serbia":{
+        "name": "serbia.png",
+        "x": 3202,
+        "y": -9878,
+        "width": 1015,
+        "height": 1303,
+        "sectors": false
     }
 }
