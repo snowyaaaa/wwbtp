@@ -406,5 +406,14 @@
         "width": 1015,
         "height": 1303,
         "sectors": false
+    },
+    "hungary":{
+        "name": "hungary.png",
+        "x": 2557,
+        "y": -10800,
+        "width": 2601,
+        "height": 1660,
+        "sectors": false
+
     }
 }
