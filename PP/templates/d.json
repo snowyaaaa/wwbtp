@@ -409,10 +409,10 @@
     },
     "hungary":{
         "name": "hungary.png",
-        "x": 4055,
-        "y": -10408,
-        "width": 1067,
-        "height": 1247,
+        "x": 2557,
+        "y": -10800,
+        "width": 2601,
+        "height": 1660,
         "sectors": false
     }
 }
