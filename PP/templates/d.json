@@ -422,5 +422,13 @@
         "width": 505,
         "height": 431,
         "sectors": false
+    },
+        "denmark":{
+        "name": "denmark.png",
+        "x": 1470,
+        "y": -13448,
+        "width": 1452,
+        "height": 1248,
+        "sectors": false
     }
 }
