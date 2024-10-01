@@ -391,6 +391,14 @@
         "height": 43,
         "sectors": false
     },
+    "solarism":{
+        "name": "solarism.png",
+        "x": 5450,
+        "y": -20590,
+        "width": 681,
+        "height": 1024,
+        "sectors": false
+    },
     "italy":{
         "name": "italy.png",
         "x": 2059,
