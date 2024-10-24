@@ -401,10 +401,10 @@
     },
     "italy":{
         "name": "italy.png",
-        "x": 2059,
-        "y": -9254,
-        "width": 1294,
-        "height": 1521,
+        "x": 1187,
+        "y": -10097,
+        "width": 2165,
+        "height": 2363,
         "sectors": false
     },
     "serbia":{
