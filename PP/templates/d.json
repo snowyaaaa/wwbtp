@@ -438,5 +438,21 @@
         "width": 1452,
         "height": 1248,
         "sectors": false
+    },
+        "bosnia":{
+        "name": "bosnia.png",
+        "x": 2646,
+        "y": -9810,
+        "width": 947,
+        "height": 980,
+        "sectors": false
+    },
+        "france":{
+        "name": "france.png",
+        "x": 169,
+        "y": -11236,
+        "width": 1295,
+        "height": 1849,
+        "sectors": false
     }
 }
