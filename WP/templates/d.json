@@ -1,58 +1,10 @@
 {
     "1": {
-        "name": "S-2-6.png",
+        "name": "milaya-dyorpi.png",
         "x": -24576,
         "y": -8192,
-        "width": 4096,
-        "height": 4096,
-        "sectors": false
-    },
-    "2": {
-        "name": "S-2-7.png",
-        "x": -24576,
-        "y": -4096,
-        "width": 4096,
-        "height": 4096,
-        "sectors": false
-    },
-    "3": {
-        "name": "S-2-8.png",
-        "x": -24576,
-        "y": 0,
-        "width": 4096,
-        "height": 4096,
-        "sectors": false
-    },
-    "4": {
-        "name": "S-3-6.png",
-        "x": -20480,
-        "y": -8192,
-        "width": 4096,
-        "height": 4096,
-        "sectors": false
-    },
-    "5": {
-        "name": "S-3-7.png",
-        "x": -20480,
-        "y": -4096,
-        "width": 4096,
-        "height": 4096,
-        "sectors": true
-    },
-    "6": {
-        "name": "S-3-8.png",
-        "x": -20480,
-        "y": 0,
-        "width": 4096,
-        "height": 4096,
-        "sectors": true
-    },
-    "7": {
-        "name": "S-4-7.png",
-        "x": -16384,
-        "y": -4096,
-        "width": 4096,
-        "height": 4096,
+        "width": 0,
+        "height": 0,
         "sectors": false
     }
 }
